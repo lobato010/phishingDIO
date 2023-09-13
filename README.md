@@ -1,1 +1,3 @@
 # phishingDIO
+sudo su
+setoolkit
